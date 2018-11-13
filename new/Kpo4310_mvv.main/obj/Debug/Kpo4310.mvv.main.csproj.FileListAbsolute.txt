@@ -1,0 +1,84 @@
+C:\Users\Vitalia\source\repos\Kpo4310_mvv\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.exe.config
+C:\Users\Vitalia\source\repos\Kpo4310_mvv\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\source\repos\Kpo4310_mvv\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.pdb
+C:\Users\Vitalia\source\repos\Kpo4310_mvv\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.Lib.dll
+C:\Users\Vitalia\source\repos\Kpo4310_mvv\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.Lib.pdb
+C:\Users\Vitalia\source\repos\Kpo4310_mvv\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csprojResolveAssemblyReference.cache
+C:\Users\Vitalia\source\repos\Kpo4310_mvv\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.FrmMain.resources
+C:\Users\Vitalia\source\repos\Kpo4310_mvv\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.Properties.Resources.resources
+C:\Users\Vitalia\source\repos\Kpo4310_mvv\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csproj.GenerateResource.Cache
+C:\Users\Vitalia\source\repos\Kpo4310_mvv\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csproj.CoreCompileInputs.cache
+C:\Users\Vitalia\source\repos\Kpo4310_mvv\Kpo4310_mvv.main\obj\Debug\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\source\repos\Kpo4310_mvv\Kpo4310_mvv.main\obj\Debug\Kpo4310_mvv.main.pdb
+C:\Users\Vitalia\source\repos\Kpo4310_mvv\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.source.FrmelementaryParticle.resources
+C:\Users\Vitalia\source\repos\Kpo4310_mvv part 2\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.exe.config
+C:\Users\Vitalia\source\repos\Kpo4310_mvv part 2\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\source\repos\Kpo4310_mvv part 2\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.pdb
+C:\Users\Vitalia\source\repos\Kpo4310_mvv part 2\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.Lib.dll
+C:\Users\Vitalia\source\repos\Kpo4310_mvv part 2\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.Lib.pdb
+C:\Users\Vitalia\source\repos\Kpo4310_mvv part 2\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csprojResolveAssemblyReference.cache
+C:\Users\Vitalia\source\repos\Kpo4310_mvv part 2\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.FrmMain.resources
+C:\Users\Vitalia\source\repos\Kpo4310_mvv part 2\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.Properties.Resources.resources
+C:\Users\Vitalia\source\repos\Kpo4310_mvv part 2\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.source.FrmelementaryParticle.resources
+C:\Users\Vitalia\source\repos\Kpo4310_mvv part 2\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csproj.GenerateResource.Cache
+C:\Users\Vitalia\source\repos\Kpo4310_mvv part 2\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csproj.CoreCompileInputs.cache
+C:\Users\Vitalia\source\repos\Kpo4310_mvv part 2\Kpo4310_mvv.main\obj\Debug\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\source\repos\Kpo4310_mvv part 2\Kpo4310_mvv.main\obj\Debug\Kpo4310_mvv.main.pdb
+C:\Users\Vitalia\source\repos\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.exe.config
+C:\Users\Vitalia\source\repos\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\source\repos\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.pdb
+C:\Users\Vitalia\source\repos\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.Lib.dll
+C:\Users\Vitalia\source\repos\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.Lib.pdb
+C:\Users\Vitalia\source\repos\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csprojResolveAssemblyReference.cache
+C:\Users\Vitalia\source\repos\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.FrmMain.resources
+C:\Users\Vitalia\source\repos\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.Properties.Resources.resources
+C:\Users\Vitalia\source\repos\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.source.FrmelementaryParticle.resources
+C:\Users\Vitalia\source\repos\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csproj.GenerateResource.Cache
+C:\Users\Vitalia\source\repos\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csproj.CoreCompileInputs.cache
+C:\Users\Vitalia\source\repos\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\source\repos\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310_mvv.main.pdb
+C:\Users\Vitalia\Desktop\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.exe.config
+C:\Users\Vitalia\Desktop\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\Desktop\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.pdb
+C:\Users\Vitalia\Desktop\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.Lib.dll
+C:\Users\Vitalia\Desktop\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.Lib.pdb
+C:\Users\Vitalia\Desktop\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csprojResolveAssemblyReference.cache
+C:\Users\Vitalia\Desktop\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.FrmMain.resources
+C:\Users\Vitalia\Desktop\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.Properties.Resources.resources
+C:\Users\Vitalia\Desktop\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.source.FrmelementaryParticle.resources
+C:\Users\Vitalia\Desktop\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csproj.GenerateResource.Cache
+C:\Users\Vitalia\Desktop\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csproj.CoreCompileInputs.cache
+C:\Users\Vitalia\Desktop\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\Desktop\Kpo4310_mvv 3rd lab\Kpo4310_mvv.main\obj\Debug\Kpo4310_mvv.main.pdb
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.exe.config
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.pdb
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.Lib.dll
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.Lib.pdb
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csprojResolveAssemblyReference.cache
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.FrmMain.resources
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.Properties.Resources.resources
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.source.FrmelementaryParticle.resources
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csproj.GenerateResource.Cache
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csproj.CoreCompileInputs.cache
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Debug\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Debug\Kpo4310_mvv.main.pdb
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.exe.config
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.main.pdb
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.Lib.dll
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\bin\Debug\Kpo4310_mvv.Lib.pdb
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csprojResolveAssemblyReference.cache
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.FrmMain.resources
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.Properties.Resources.resources
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.source.FrmelementaryParticle.resources
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csproj.GenerateResource.Cache
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\obj\Debug\Kpo4310.mvv.main.csproj.CoreCompileInputs.cache
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\obj\Debug\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\obj\Debug\Kpo4310_mvv.main.pdb
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+C:\Users\Vitalia\Desktop\4\Kpo4310_mvv.main\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml

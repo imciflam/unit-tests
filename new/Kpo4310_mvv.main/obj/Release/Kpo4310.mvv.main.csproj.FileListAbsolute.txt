@@ -1,0 +1,13 @@
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\bin\Release\Kpo4310_mvv.main.exe.config
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\bin\Release\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\bin\Release\Kpo4310_mvv.main.pdb
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\bin\Release\Kpo4310_mvv.Lib.dll
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\bin\Release\Kpo4310_mvv.Lib.pdb
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Release\Kpo4310.mvv.main.csprojResolveAssemblyReference.cache
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Release\Kpo4310.mvv.main.FrmMain.resources
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Release\Kpo4310.mvv.main.Properties.Resources.resources
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Release\Kpo4310.mvv.main.source.FrmelementaryParticle.resources
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Release\Kpo4310.mvv.main.csproj.GenerateResource.Cache
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Release\Kpo4310.mvv.main.csproj.CoreCompileInputs.cache
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Release\Kpo4310_mvv.main.exe
+C:\Users\Vitalia\Desktop\abstract factory 2 - with internal classes\Kpo4310_mvv.main\obj\Release\Kpo4310_mvv.main.pdb
